@@ -6,4 +6,5 @@ This project contains a couple of exercises
 
 ## Student 
 
-- First name, Second name
+- First name : Soukaina
+- Last name: EL JAOUHARI
